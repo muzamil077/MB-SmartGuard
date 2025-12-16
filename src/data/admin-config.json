@@ -1,0 +1,18 @@
+{
+	"device-001": {
+		"admin_enabled": true,
+		"admin_name": "Device Admin",
+		"config_version": "1.0"
+	},
+	"device-002": {
+		"admin_enabled": true,
+		"admin_name": "Device Admin",
+		"config_version": "1.0"
+	},
+	"device-003": {
+		"admin_enabled": false,
+		"admin_name": null,
+		"config_version": "0.9"
+	}
+}
+

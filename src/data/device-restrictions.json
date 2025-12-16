@@ -1,0 +1,30 @@
+{
+	"device-001": {
+		"restrictions": {
+			"camera": false,
+			"screenshot": true,
+			"usb_debugging": true,
+			"unknown_sources": true,
+			"developer_options": true
+		}
+	},
+	"device-002": {
+		"restrictions": {
+			"camera": true,
+			"screenshot": true,
+			"usb_debugging": false,
+			"unknown_sources": false,
+			"developer_options": false
+		}
+	},
+	"device-003": {
+		"restrictions": {
+			"camera": false,
+			"screenshot": false,
+			"usb_debugging": true,
+			"unknown_sources": true,
+			"developer_options": true
+		}
+	}
+}
+

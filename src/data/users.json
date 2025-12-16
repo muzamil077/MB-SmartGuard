@@ -1,0 +1,21 @@
+[
+	{
+		"username": "admin",
+		"password": "admin123",
+		"id": "admin-001",
+		"token": "dummy-token-admin-001"
+	},
+	{
+		"username": "demo",
+		"password": "demo123",
+		"id": "demo-001",
+		"token": "dummy-token-demo-001"
+	},
+	{
+		"username": "test@example.com",
+		"password": "test123",
+		"id": "test-001",
+		"token": "dummy-token-test-001"
+	}
+]
+

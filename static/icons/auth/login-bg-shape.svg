@@ -1,0 +1,35 @@
+<svg width="400" height="125" viewBox="0 0 400 125" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.8" clip-path="url(#clip0_566_27696)">
+<rect y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="25" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="50" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="75" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="100" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="125" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="150" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="175" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="200" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="225" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="250" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="275" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="300" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="325" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="350" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect x="375" y="-1" width="1" height="126" fill="#f0f9ff"/>
+<rect y="24" width="400" height="1" fill="#f0f9ff"/>
+<rect y="49" width="400" height="1" fill="#f0f9ff"/>
+<rect y="74" width="400" height="1" fill="#f0f9ff"/>
+<rect y="99" width="400" height="1" fill="#f0f9ff"/>
+<rect y="124" width="400" height="1" fill="#f0f9ff"/>
+<rect y="-1" width="401" height="126" fill="url(#paint0_radial_566_27696)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_566_27696" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(201 34) scale(167 65.5865)">
+<stop stop-color="white" stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<clipPath id="clip0_566_27696">
+<rect width="400" height="125" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,36 @@
+{
+	"device-001": {
+		"last_sync": "2024-01-15T10:30:00Z",
+		"last_mdm": "2024-01-15T10:25:00Z",
+		"protection": "active",
+		"protection_inactive": null,
+		"device_admin": true,
+		"device_owner": true,
+		"draw_permission": true,
+		"accesibility": true,
+		"vpn_on": true
+	},
+	"device-002": {
+		"last_sync": "2024-01-14T15:20:00Z",
+		"last_mdm": "2024-01-14T15:15:00Z",
+		"protection": "active",
+		"protection_inactive": null,
+		"device_admin": true,
+		"device_owner": false,
+		"draw_permission": true,
+		"accesibility": false,
+		"vpn_on": true
+	},
+	"device-003": {
+		"last_sync": "2024-01-15T09:00:00Z",
+		"last_mdm": "2024-01-15T08:55:00Z",
+		"protection": "active",
+		"protection_inactive": null,
+		"device_admin": true,
+		"device_owner": true,
+		"draw_permission": false,
+		"accesibility": true,
+		"vpn_on": true
+	}
+}
+

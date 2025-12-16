@@ -1,0 +1,57 @@
+{
+	"device-001": {
+		"categories": [
+			{
+				"id": "cat-001",
+				"name": "Social Media",
+				"status": "allowed",
+				"apps": ["Facebook", "Instagram", "Twitter"]
+			},
+			{
+				"id": "cat-002",
+				"name": "Entertainment",
+				"status": "restricted",
+				"apps": ["Netflix", "YouTube", "Spotify"]
+			},
+			{
+				"id": "cat-003",
+				"name": "Productivity",
+				"status": "allowed",
+				"apps": ["Gmail", "Slack", "Microsoft Office"]
+			}
+		]
+	},
+	"device-002": {
+		"categories": [
+			{
+				"id": "cat-001",
+				"name": "Social Media",
+				"status": "restricted",
+				"apps": ["Facebook", "Instagram"]
+			},
+			{
+				"id": "cat-002",
+				"name": "Entertainment",
+				"status": "blocked",
+				"apps": ["Netflix", "YouTube"]
+			}
+		]
+	},
+	"device-003": {
+		"categories": [
+			{
+				"id": "cat-001",
+				"name": "Social Media",
+				"status": "allowed",
+				"apps": ["LinkedIn", "Twitter"]
+			},
+			{
+				"id": "cat-003",
+				"name": "Productivity",
+				"status": "allowed",
+				"apps": ["Gmail", "Slack", "Microsoft Office", "Notion"]
+			}
+		]
+	}
+}
+

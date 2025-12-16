@@ -1,0 +1,79 @@
+{
+	"device-001": {
+		"apps": [
+			{
+				"id": "app-001",
+				"name": "Facebook",
+				"package": "com.facebook.katana",
+				"category": "Social Media",
+				"status": "allowed",
+				"icon": "/icons/svg/facebook.svg"
+			},
+			{
+				"id": "app-002",
+				"name": "Instagram",
+				"package": "com.instagram.android",
+				"category": "Social Media",
+				"status": "allowed",
+				"icon": "/icons/svg/instagram.svg"
+			},
+			{
+				"id": "app-003",
+				"name": "Netflix",
+				"package": "com.netflix.mediaclient",
+				"category": "Entertainment",
+				"status": "restricted",
+				"icon": "/icons/svg/netflix.svg"
+			},
+			{
+				"id": "app-004",
+				"name": "Gmail",
+				"package": "com.google.android.gm",
+				"category": "Productivity",
+				"status": "allowed",
+				"icon": "/icons/svg/gmail.svg"
+			}
+		]
+	},
+	"device-002": {
+		"apps": [
+			{
+				"id": "app-001",
+				"name": "Facebook",
+				"package": "com.facebook.katana",
+				"category": "Social Media",
+				"status": "restricted",
+				"icon": "/icons/svg/facebook.svg"
+			},
+			{
+				"id": "app-004",
+				"name": "Gmail",
+				"package": "com.google.android.gm",
+				"category": "Productivity",
+				"status": "allowed",
+				"icon": "/icons/svg/gmail.svg"
+			}
+		]
+	},
+	"device-003": {
+		"apps": [
+			{
+				"id": "app-004",
+				"name": "Gmail",
+				"package": "com.google.android.gm",
+				"category": "Productivity",
+				"status": "allowed",
+				"icon": "/icons/svg/gmail.svg"
+			},
+			{
+				"id": "app-005",
+				"name": "Slack",
+				"package": "com.Slack",
+				"category": "Productivity",
+				"status": "allowed",
+				"icon": "/icons/svg/slack.svg"
+			}
+		]
+	}
+}
+

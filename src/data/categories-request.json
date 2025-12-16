@@ -1,0 +1,19 @@
+{
+	"device-001": {
+		"requests": [
+			{
+				"id": "req-001",
+				"category": "Gaming",
+				"status": "pending",
+				"requested_at": "2024-01-14T10:00:00Z"
+			},
+			{
+				"id": "req-002",
+				"category": "Shopping",
+				"status": "approved",
+				"requested_at": "2024-01-13T15:30:00Z"
+			}
+		]
+	}
+}
+

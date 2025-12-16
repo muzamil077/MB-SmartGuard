@@ -1,0 +1,21 @@
+{
+	"device-001": {
+		"extension_installed": true,
+		"extension_version": "1.2.3",
+		"last_sync": "2024-01-15T10:30:00Z",
+		"status": "active"
+	},
+	"device-002": {
+		"extension_installed": true,
+		"extension_version": "1.2.1",
+		"last_sync": "2024-01-14T15:20:00Z",
+		"status": "active"
+	},
+	"device-003": {
+		"extension_installed": false,
+		"extension_version": null,
+		"last_sync": null,
+		"status": "not_installed"
+	}
+}
+

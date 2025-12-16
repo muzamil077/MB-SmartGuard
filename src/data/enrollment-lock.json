@@ -1,0 +1,12 @@
+{
+	"device-001": {
+		"locked_state": "locked"
+	},
+	"device-002": {
+		"locked_state": "unlocked"
+	},
+	"device-003": {
+		"locked_state": "locked"
+	}
+}
+

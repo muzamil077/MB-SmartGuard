@@ -1,0 +1,19 @@
+{
+	"device-001": {
+		"logs": [
+			{
+				"id": "cmd-001",
+				"command": "sync",
+				"status": "completed",
+				"timestamp": "2024-01-15T10:30:00Z"
+			},
+			{
+				"id": "cmd-002",
+				"command": "update_settings",
+				"status": "pending",
+				"timestamp": "2024-01-15T10:25:00Z"
+			}
+		]
+	}
+}
+

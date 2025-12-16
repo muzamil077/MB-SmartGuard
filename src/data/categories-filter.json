@@ -1,0 +1,22 @@
+{
+	"device-001": {
+		"filters": [
+			{
+				"id": "filter-001",
+				"name": "Social Media",
+				"enabled": true
+			},
+			{
+				"id": "filter-002",
+				"name": "Entertainment",
+				"enabled": false
+			},
+			{
+				"id": "filter-003",
+				"name": "Productivity",
+				"enabled": true
+			}
+		]
+	}
+}
+

@@ -1,0 +1,19 @@
+{
+	"device-001": {
+		"logs": [
+			{
+				"id": "log-001",
+				"url": "https://example.com",
+				"status": "allowed",
+				"timestamp": "2024-01-15T10:30:00Z"
+			},
+			{
+				"id": "log-002",
+				"url": "https://facebook.com",
+				"status": "blocked",
+				"timestamp": "2024-01-15T10:25:00Z"
+			}
+		]
+	}
+}
+

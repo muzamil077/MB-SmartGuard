@@ -1,0 +1,75 @@
+{
+	"device-001": {
+		"name": "John's iPhone",
+		"email": "john.doe@example.com",
+		"id": "device-001",
+		"phone": "+1234567890",
+		"pin": "1234",
+		"security_email": "john.doe@example.com",
+		"account": "john.doe@example.com",
+		"device_info": "iPhone 14 Pro, iOS 17.2",
+		"status": {
+			"last_sync": "2024-01-15T10:30:00Z",
+			"last_mdm": "2024-01-15T10:25:00Z",
+			"protection": "active",
+			"protection_inactive": null,
+			"device_admin": true,
+			"device_owner": true,
+			"draw_permission": true,
+			"accesibility": true,
+			"vpn_on": true
+		},
+		"notes": "Primary device for John Doe",
+		"is_pro": true,
+		"device_type": "ios"
+	},
+	"device-002": {
+		"name": "Sarah's Android",
+		"email": "sarah.smith@example.com",
+		"id": "device-002",
+		"phone": "+1234567891",
+		"pin": "5678",
+		"security_email": "sarah.smith@example.com",
+		"account": "sarah.smith@example.com",
+		"device_info": "Samsung Galaxy S23, Android 14",
+		"status": {
+			"last_sync": "2024-01-14T15:20:00Z",
+			"last_mdm": "2024-01-14T15:15:00Z",
+			"protection": "active",
+			"protection_inactive": null,
+			"device_admin": true,
+			"device_owner": false,
+			"draw_permission": true,
+			"accesibility": false,
+			"vpn_on": true
+		},
+		"notes": "Trial account",
+		"is_pro": false,
+		"device_type": "android"
+	},
+	"device-003": {
+		"name": "Mike's MacBook",
+		"email": "mike.johnson@example.com",
+		"id": "device-003",
+		"phone": "+1234567892",
+		"pin": "9012",
+		"security_email": "mike.johnson@example.com",
+		"account": "mike.johnson@example.com",
+		"device_info": "MacBook Pro 16\", macOS 14.2",
+		"status": {
+			"last_sync": "2024-01-15T09:00:00Z",
+			"last_mdm": "2024-01-15T08:55:00Z",
+			"protection": "active",
+			"protection_inactive": null,
+			"device_admin": true,
+			"device_owner": true,
+			"draw_permission": false,
+			"accesibility": true,
+			"vpn_on": true
+		},
+		"notes": "Work laptop",
+		"is_pro": true,
+		"device_type": "mac"
+	}
+}
+

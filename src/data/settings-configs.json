@@ -1,0 +1,10 @@
+{
+	"device-001": {
+		"configs": {
+			"vpn_server": "us-east-1",
+			"screen_time_limit": 120,
+			"block_mode": "strict"
+		}
+	}
+}
+

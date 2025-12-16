@@ -1,0 +1,27 @@
+{
+	"totalCustomer": {
+		"total": 25,
+		"ios": 12,
+		"android": 10,
+		"mac": 3
+	},
+	"connected": {
+		"total": 18,
+		"ios": 9,
+		"android": 7,
+		"mac": 2
+	},
+	"active": {
+		"total": 15,
+		"ios": 8,
+		"android": 6,
+		"mac": 1
+	},
+	"installed": {
+		"total": 5,
+		"ios": 3,
+		"android": 2,
+		"mac": 0
+	}
+}
+

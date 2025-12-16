@@ -1,0 +1,12 @@
+{
+	"device-001": {
+		"features": {
+			"vpn": true,
+			"app_blocking": true,
+			"url_filtering": true,
+			"screen_time": true,
+			"location_tracking": false
+		}
+	}
+}
+

@@ -1,0 +1,30 @@
+{
+	"device-001": {
+		"settings": {
+			"vpn_enabled": true,
+			"screen_time_limit": 120,
+			"app_blocking": true,
+			"url_filtering": true,
+			"location_tracking": false
+		}
+	},
+	"device-002": {
+		"settings": {
+			"vpn_enabled": true,
+			"screen_time_limit": 180,
+			"app_blocking": true,
+			"url_filtering": true,
+			"location_tracking": true
+		}
+	},
+	"device-003": {
+		"settings": {
+			"vpn_enabled": true,
+			"screen_time_limit": 240,
+			"app_blocking": false,
+			"url_filtering": true,
+			"location_tracking": false
+		}
+	}
+}
+

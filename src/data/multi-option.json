@@ -1,0 +1,19 @@
+{
+	"device-001": {
+		"options": [
+			{
+				"id": "opt-001",
+				"name": "Option 1",
+				"value": "value1",
+				"enabled": true
+			},
+			{
+				"id": "opt-002",
+				"name": "Option 2",
+				"value": "value2",
+				"enabled": false
+			}
+		]
+	}
+}
+

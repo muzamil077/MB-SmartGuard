@@ -1,0 +1,18 @@
+{
+	"device-001": {
+		"url": "https://example.com",
+		"status": "allowed",
+		"last_checked": "2024-01-15T10:30:00Z"
+	},
+	"device-002": {
+		"url": "https://facebook.com",
+		"status": "blocked",
+		"last_checked": "2024-01-14T15:20:00Z"
+	},
+	"device-003": {
+		"url": "https://google.com",
+		"status": "allowed",
+		"last_checked": "2024-01-15T09:00:00Z"
+	}
+}
+

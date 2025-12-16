@@ -1,0 +1,37 @@
+{
+	"device-001": {
+		"allowed_urls": [
+			"https://example.com",
+			"https://google.com",
+			"https://github.com"
+		],
+		"blocked_urls": [
+			"https://facebook.com",
+			"https://twitter.com"
+		],
+		"url_filtering_enabled": true
+	},
+	"device-002": {
+		"allowed_urls": [
+			"https://example.com",
+			"https://google.com"
+		],
+		"blocked_urls": [
+			"https://facebook.com",
+			"https://instagram.com",
+			"https://twitter.com"
+		],
+		"url_filtering_enabled": true
+	},
+	"device-003": {
+		"allowed_urls": [
+			"https://example.com",
+			"https://google.com",
+			"https://github.com",
+			"https://stackoverflow.com"
+		],
+		"blocked_urls": [],
+		"url_filtering_enabled": false
+	}
+}
+

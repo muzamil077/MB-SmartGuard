@@ -1,0 +1,113 @@
+{
+	"device_count": 25,
+	"customer_count": 8,
+	"device_list": [
+		{
+			"id": "device-001",
+			"name": "John's iPhone",
+			"email": "john.doe@example.com",
+			"phone": "+1234567890",
+			"account": "john.doe@example.com",
+			"device_type": "ios",
+			"is_pro": true,
+			"payment_status": "active"
+		},
+		{
+			"id": "device-002",
+			"name": "Sarah's Android",
+			"email": "sarah.smith@example.com",
+			"phone": "+1234567891",
+			"account": "sarah.smith@example.com",
+			"device_type": "android",
+			"is_pro": false,
+			"payment_status": "trial"
+		},
+		{
+			"id": "device-003",
+			"name": "Mike's MacBook",
+			"email": "mike.johnson@example.com",
+			"phone": "+1234567892",
+			"account": "mike.johnson@example.com",
+			"device_type": "mac",
+			"is_pro": true,
+			"payment_status": "active"
+		},
+		{
+			"id": "device-004",
+			"name": "Emma's iPad",
+			"email": "emma.wilson@example.com",
+			"phone": "+1234567893",
+			"account": "emma.wilson@example.com",
+			"device_type": "ios",
+			"is_pro": true,
+			"payment_status": "active"
+		},
+		{
+			"id": "device-005",
+			"name": "David's Samsung",
+			"email": "david.brown@example.com",
+			"phone": "+1234567894",
+			"account": "david.brown@example.com",
+			"device_type": "android",
+			"is_pro": false,
+			"payment_status": "expired"
+		}
+	],
+	"customer_list": [
+		{
+			"id": "customer-001",
+			"name": "John Doe",
+			"email": "john.doe@example.com",
+			"phone": "+1234567890",
+			"Devices": [
+				{
+					"id": "device-001",
+					"name": "John's iPhone",
+					"email": "john.doe@example.com",
+					"phone": "+1234567890",
+					"account": "john.doe@example.com",
+					"device_type": "ios",
+					"is_pro": true,
+					"payment_status": "active"
+				}
+			]
+		},
+		{
+			"id": "customer-002",
+			"name": "Sarah Smith",
+			"email": "sarah.smith@example.com",
+			"phone": "+1234567891",
+			"Devices": [
+				{
+					"id": "device-002",
+					"name": "Sarah's Android",
+					"email": "sarah.smith@example.com",
+					"phone": "+1234567891",
+					"account": "sarah.smith@example.com",
+					"device_type": "android",
+					"is_pro": false,
+					"payment_status": "trial"
+				}
+			]
+		},
+		{
+			"id": "customer-003",
+			"name": "Mike Johnson",
+			"email": "mike.johnson@example.com",
+			"phone": "+1234567892",
+			"Devices": [
+				{
+					"id": "device-003",
+					"name": "Mike's MacBook",
+					"email": "mike.johnson@example.com",
+					"phone": "+1234567892",
+					"account": "mike.johnson@example.com",
+					"device_type": "mac",
+					"is_pro": true,
+					"payment_status": "active"
+				}
+			]
+		}
+	]
+}
+
