@@ -20,7 +20,7 @@ A powerful, modern dashboard built with **SvelteKit** and **TailwindCSS** for ma
   - **Remote Commands**: Execute maintenance commands or temporary disablements.
 
 - **⚙️ Admin Controls**
-  - **Configuration Management**: Centralized admin settings and password management.
+  - **Configuration Management**: Centralized admin settings and	 password management.
   - **Payment Integration**: View subscription and payment statuses for managed devices.
 
 ## Tech Stack
