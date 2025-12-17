@@ -1,4 +1,4 @@
-# MindBase Dashboard (MB-front)
+MB-SmartGuard
 
 A powerful, modern dashboard built with **SvelteKit** and **TailwindCSS** for managing and monitoring mobile and desktop devices. This application provides real-time statistics, remote configuration capabilities, and comprehensive content filtering controls for Android, iOS, and Mac devices.
 
